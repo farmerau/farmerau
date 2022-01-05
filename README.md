@@ -1,4 +1,12 @@
-### Hi there 👋
+# ☕️ Austin Farmer
+
+## About Me
+
+I'm a passionate software engineer based in Durham, North Carolina. Historically, I've worked as a full-stack developer. Now, I work as a .NET Core backend engineer at Wayfair.
+
+Beyond software, I'm particularly fond of coffee-- learning about it, drinking it, etc.
+
+I'm always looking for a cool project to work on.
 
 <!--
 **farmerau/farmerau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
