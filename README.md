@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software engineer based in Durham, North Carolina. Historically, I've worked as a full-stack developer. Now, I work as a .NET Core backend engineer at Wayfair.
+I'm a passionate software engineer based in Durham, North Carolina. Currently @Microsoft, Previously @Wayfair and Us Digital Partners.
 
 Beyond software, I'm particularly fond of coffee-- learning about it, drinking it, etc.
 
